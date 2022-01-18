@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PassValuesBetweenViewControllers
 //
-//  Created by Emiliano on 12/01/2022.
+//  Created by Vanesa Korbenfeld on 12/01/2022.
 //
 
 import UIKit
